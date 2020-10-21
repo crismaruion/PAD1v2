@@ -1,0 +1,9 @@
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\bin\Debug\netstandard2.0\SharedSettings.deps.json
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\bin\Debug\netstandard2.0\SharedSettings.dll
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\bin\Debug\netstandard2.0\SharedSettings.pdb
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\obj\Debug\netstandard2.0\SharedSettings.AssemblyInfoInputs.cache
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\obj\Debug\netstandard2.0\SharedSettings.AssemblyInfo.cs
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\obj\Debug\netstandard2.0\SharedSettings.csproj.CoreCompileInputs.cache
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\obj\Debug\netstandard2.0\SharedSettings.dll
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\obj\Debug\netstandard2.0\SharedSettings.pdb
+E:\UTM\Anul IV\PAD\Lab2\LabPad2\SharedSettings\obj\Debug\netstandard2.0\SharedSettings.csprojAssemblyReference.cache
